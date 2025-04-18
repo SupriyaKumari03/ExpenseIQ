@@ -1,0 +1,132 @@
+{
+  "transactions": [
+    {
+      "date": null,
+      "description": "Supriya Kumari",
+      "category": "Uncategorized",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "Education",
+      "category": "Education",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "Indian Institute of Technology (Indian School Of Mines)",
+      "category": "Education",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "Experience",
+      "category": "Work",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "SuspireMedia",
+      "category": "Work",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "Projects",
+      "category": "Projects",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "ShopWave",
+      "category": "Projects",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "XpenseTracker",
+      "category": "Projects",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "StreamVerse",
+      "category": "Projects",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "Technical Skills",
+      "category": "Skills",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "Achievements",
+      "category": "Achievements",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "Social Engagements",
+      "category": "Social",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "Electric Mobility Club (Mechismu Racing) of IIT (ISM) Dhanbad",
+      "category": "Social",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "Fast Forward India (IIT Dhanbad)",
+      "category": "Social",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "Concetto’22 (Tech-Fest)",
+      "category": "Social",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    },
+    {
+      "date": null,
+      "description": "Sports-Engagements",
+      "category": "Sports",
+      "debit": null,
+      "credit": null,
+      "balance": null
+    }
+  ]
+}
